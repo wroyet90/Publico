@@ -1,1 +1,2 @@
-Hola mundo esta es mi primera prueba de git local y remoto
+Usurio: @wroyet90
+E-mail: williamsrnr@gmail.com
